@@ -5,7 +5,7 @@ This is the repository for the work made on the classs of Android between the 14
 <br>
 
 ## A3 ALT1 -IIM 
-##Edson Kennedy DE CARVALHO PEDRO
+## Edson Kennedy DE CARVALHO PEDRO
 
 
 <br></br>
@@ -21,7 +21,7 @@ This is the repository for the work made on the classs of Android between the 14
 
 
 
-## Preview 
+## ScreenShots 
 
 ![alt-text-1](./img/film1.jpg "title-1") ![alt-text-2](./img/intro.jpg "title-2")![alt-text-2](./img/search.jpg "title-2")![alt-text-2](./img/home.jpg "title-2")
 
