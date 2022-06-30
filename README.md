@@ -16,7 +16,7 @@ This is the repository for the work made on the classs of Android between the 14
 
 ## Video preview 
 
-![alt-text-1](./img/intro2.gif "title-1") ![alt-text-1](./img/introvideo2.gif "title-1")
+![alt-text-1](./img/intro2.gif "title-1") ![alt-text-1](./img/searchVideo4.gif "title-1")
 
 
 
