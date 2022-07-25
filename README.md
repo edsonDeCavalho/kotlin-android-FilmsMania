@@ -2,11 +2,6 @@
 Films Mania is an applecation to view the new films and to expore films
 <br>
 <br>
-
-## A3 ALT1 -IIM 
-## Edson Kennedy DE CARVALHO PEDRO
-
-
 <br></br>
 
 ![alt text](./img/popCorn2.png)![alt text](./img/popCorn2.png)![alt text](./img/popCorn2.png)![alt text](./img/popCorn2.png)![alt text](./img/popCorn2.png)![alt text](./img/popCorn2.png)![alt text](./img/popCorn2.png)![alt text](./img/popCorn2.png)![alt text](./img/popCorn2.png)![alt text](./img/popCorn2.png)![alt text](./img/popCorn2.png)![alt text](./img/popCorn2.png)![alt text](./img/popCorn2.png)![alt text](./img/popCorn2.png)![alt text](./img/popCorn2.png)![alt text](./img/popCorn2.png)![alt text](./img/popCorn2.png)![alt text](./img/popCorn2.png)![alt text](./img/popCorn2.png)<br>
