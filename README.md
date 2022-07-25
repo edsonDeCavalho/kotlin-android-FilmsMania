@@ -1,6 +1,5 @@
-# TP ANDROID - FilmsMania
-This is the repository for the work made on the classs of Android between the 14 June 2022 and 17 June
-<br>Films Mania is an applecation to view the new films and to expore films
+# Kotlin - FilmsMania
+Films Mania is an applecation to view the new films and to expore films
 <br>
 <br>
 
